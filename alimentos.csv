@@ -1,102 +1,101 @@
 Número,Alimento,Umidade,Energia,Proteína,Carboidrato,Categoria
 1,Arroz integral cozido,70.1,124,2.6,25.8,1
-2,Arroz integral cru,12.2,360,7.3,77.5,1
-3,Arroz tipo 1 cozido,69.1,128,2.5,28.1,1
-4,Arroz tipo 1 cru,13.2,358,7.2,78.8,1
-5,Arroz tipo 2 cozido,68.7,130,2.6,28.2,1
-6,Arroz tipo 2 cru,13.2,358,7.2,78.9,1
-7,Aveia flocos crua,9.1,394,13.9,66.6,1
-8,Biscoito doce maisena,3.2,443,8.0,75.2,1
-32,Farinha de centeio integral,10.8,336,12.5,73.3,1
-33,Farinha de milho amarela,11.8,351,7.2,79.1,1
-101,Abobora cabotian cozida,90.1,48,1.4,11.5,2
-102,Abobora cabotian crua,88.3,40,1.0,10.1,2
-103,Abobrinha italiana cozida,95.2,19,1.1,4.3,2
-104,Abobrinha italiana crua,94.6,17,1.1,3.1,2
-105,Acelga crua,95.4,21,1.2,4.2,2
-106,Agriao cru,94.9,17,2.0,2.3,2
-107,Alface crespa crua,96.4,12,1.0,1.7,2
-108,Alface roxa crua,96.6,14,0.9,2.2,2
-109,Alho cru,67.5,113,7.0,23.9,2
-110,Batata inglesa cozida,80.5,52,1.2,11.9,2
-111,Batata inglesa crua,79.0,64,1.8,14.7,2
-112,Berinjela cozida,92.0,19,0.8,4.5,2
-113,Berinjela crua,92.2,20,1.2,4.4,2
-201,Abacate cru,84.3,96,1.2,6.0,3
-202,Abacaxi cru,86.3,48,0.9,12.3,3
-203,Acerola crua,91.4,33,0.9,7.7,3
-204,Banana nanica crua,74.8,92,1.3,23.8,3
-205,Banana prata crua,75.5,89,1.2,22.8,3
-206,Caju cru,88.5,43,0.9,10.3,3
-207,Caqui chocolate cru,79.2,71,0.4,19.3,3
-208,Goiaba branca crua,84.9,52,0.9,13.0,3
-209,Goiaba vermelha crua,85.0,54,1.0,13.0,3
-210,Laranja pera crua,87.1,37,0.7,8.9,3
-211,Maca crua,85.6,52,0.3,13.8,3
-212,Mamao papaia cru,90.1,45,0.5,11.6,3
-213,Manga Tommy Atkins crua,82.3,72,0.4,19.4,3
-301,Carne bovina acem cru,72.7,144,21.6,0.0,4
-302,Carne bovina acem cozido,60.0,215,27.3,0.0,4
-303,Carne bovina alcatra cru,72.0,163,21.2,0.0,4
-304,Carne bovina alcatra grelhada,55.6,278,31.9,0.0,4
-305,Carne bovina contrafile cru,71.2,198,21.5,0.0,4
-306,Carne bovina contrafile grelhado,55.0,278,31.1,0.0,4
-307,Carne suina bisteca crua,66.9,220,21.5,0.0,4
-308,Carne suina bisteca frita,43.5,352,33.5,0.0,4
-309,Frango peito cru,74.8,119,21.5,0.0,4
-310,Frango peito grelhado,65.0,163,31.0,0.0,4
-311,Frango coxa crua,75.2,120,18.0,0.0,4
-312,Frango coxa assada,63.3,215,28.0,0.0,4
-313,Frango inteiro assado,62.3,215,28.0,0.0,4
-401,Atum fresco cru,73.4,118,25.7,0.0,5
-402,Bacalhau salgado cru,53.0,136,28.6,0.0,5
-403,Cacao posta crua,77.0,83,17.9,0.0,5
-404,Camarao sete barbas cru,78.0,90,19.0,0.0,5
-405,Corvina crua,79.0,87,18.0,0.0,5
-406,Lambari frito,63.0,327,33.0,0.0,5
-407,Manjuba frita,59.0,345,30.0,0.0,5
-408,Merluza crua,81.0,89,16.0,0.0,5
-409,Pescada branca crua,79.2,94,18.5,0.0,5
-410,Salmao fresco cru,64.9,210,19.9,0.0,5
-411,Sardinha fresca crua,72.0,135,20.0,0.0,5
-412,Tucunare cru,79.5,88,19.0,0.0,5
-413,Sardinha enlatada oleo,59.0,283,25.0,0.0,5
-501,Leite integral UHT,87.0,61,3.2,4.7,6
-502,Leite desnatado UHT,90.0,36,3.4,5.1,6
-503,Leite em po integral,2.5,496,25.4,39.0,6
-504,Leite em po desnatado,3.5,362,36.0,52.0,6
-505,Queijo minas frescal,72.0,264,17.4,2.0,6
-506,Queijo parmesao,29.0,453,35.6,0.0,6
-507,Queijo prato,37.0,360,22.0,1.9,6
-508,Queijo ricota,74.0,140,12.6,3.8,6
-509,Queijo requeijao cremoso,55.0,257,9.6,2.4,6
-510,Iogurte natural integral,85.0,61,3.5,5.0,6
-511,Iogurte natural desnatado,87.0,42,4.0,6.0,6
-512,Iogurte de frutas integral,81.0,83,3.0,14.1,6
-513,Iogurte de frutas desnatado,83.0,56,3.8,8.2,6
-601,Feijao carioca cru,12.0,330,20.0,60.0,7
-602,Feijao carioca cozido,73.0,127,8.0,23.0,7
-603,Feijao preto cru,11.0,324,21.0,62.0,7
-604,Feijao preto cozido,72.0,132,8.5,24.0,7
-605,Lentilha crua,12.0,338,23.0,63.0,7
-606,Lentilha cozida,70.0,116,9.0,20.0,7
-607,Grao de bico cru,10.0,378,19.0,61.0,7
-608,Grao de bico cozido,64.0,164,9.0,27.0,7
-609,Soja crua,8.5,403,36.0,30.0,7
-610,Soja cozida,64.0,141,12.5,10.0,7
-611,Ervilha crua,14.0,339,22.0,62.0,7
-612,Ervilha cozida,77.0,84,5.0,14.0,7
-613,Feijao branco cru,12.0,336,21.0,62.0,7
-701,Amendoim cru,6.0,544,27.0,20.0,8
-702,Amendoim torrado,2.5,605,26.0,18.0,8
-703,Castanha do para crua,4.0,656,14.0,12.0,8
-704,Castanha de caju torrada,3.0,574,18.0,30.0,8
-705,Noz crua,4.5,620,15.0,21.0,8
-706,Macadamia crua,1.5,718,8.0,14.0,8
-707,Semente de abobora seca,5.0,559,30.0,11.0,8
-708,Semente de girassol seca,4.0,584,21.0,20.0,8
-709,Linhaca semente,7.0,534,18.0,29.0,8
-710,Gergelim semente,4.0,573,18.0,23.0,8
-711,Pinhao cozido,46.0,174,3.0,43.0,8
-712,Coco cru,46.0,354,3.3,15.0,8
-713,Coco ralado seco,4.0,592,6.0,25.0,8
+2,Arroz tipo 1 cru,13.2,358,7.2,78.8,1
+3,Aveia flocos crua,9.1,394,13.9,66.6,1
+4,Biscoito doce maisena,3.2,443,8.1,75.2,1
+5,Bolo pronto chocolate,19.3,410,6.2,54.7,1
+6,Couve manteiga crua,91.8,27,2.9,4.3,2
+7,Alface crespa crua,96.4,14,1.3,2.2,2
+8,Cenoura crua,90.1,34,1.3,7.7,2
+9,Tomate salada cru,94.5,21,0.9,4.7,2
+10,Brócolis cozido,92.0,25,2.1,4.4,2
+11,Maçã fuji com casca,85.6,55,0.3,14.8,3
+12,Banana prata crua,75.1,98,1.3,26.0,3
+13,Laranja pêra crua,87.1,45,0.8,11.5,3
+14,Mamão papaia cru,88.1,41,0.8,10.0,3
+15,Manga haden crua,82.3,64,0.4,16.8,3
+16,Carne bovina patinho cru,73.9,134,21.3,0.0,4
+17,Carne bovina alcatra grelhada,59.0,240,31.9,0.0,4
+18,Frango peito grelhado,65.3,163,32.0,0.0,4
+19,Carne suína lombo assado,60.0,210,29.3,0.0,4
+20,Frango coxa cozida,66.8,177,24.2,0.0,4
+21,Salmão fresco,64.0,206,19.9,0.0,5
+22,Sardinha assada,60.1,179,23.0,0.0,5
+23,Atum fresco,68.0,117,25.2,0.0,5
+24,Merluza cozida,77.0,89,19.0,0.0,5
+25,Camarão sete barbas cozido,75.0,90,19.0,0.0,5
+26,Leite integral,87.9,61,3.2,4.7,6
+27,Leite desnatado,90.3,42,3.4,4.9,6
+28,Iogurte natural integral,85.2,63,3.5,5.1,6
+29,Queijo minas frescal,70.0,264,17.4,3.2,6
+30,Requeijão cremoso,54.0,257,8.2,2.4,6
+31,Feijão carioca cozido,69.0,76,4.8,13.6,7
+32,Feijão preto cozido,68.0,77,4.5,14.0,7
+33,Grão-de-bico cozido,60.0,163,8.9,27.4,7
+34,Lentilha cozida,69.0,93,6.3,16.8,7
+35,Ervilha seca cozida,75.0,98,6.2,16.4,7
+36,Castanha-de-caju torrada,3.5,570,18.5,30.5,8
+37,Castanha-do-pará crua,3.5,656,14.3,11.4,8
+38,Amêndoas torradas,4.5,581,19.5,21.6,8
+39,Nozes cruas,4.0,620,15.2,15.3,8
+40,Gergelim torrado,4.7,584,18.2,26.6,8
+41,Cerveja pilsen,93.0,43,0.4,3.3,9
+42,Refrigerante cola,90.0,37,0.0,9.6,9
+43,Suco de laranja natural,88.3,36,0.6,8.4,9
+44,Vinho tinto,87.0,73,0.1,2.6,9
+45,Água de coco natural,94.0,22,0.2,5.3,9
+46,Ovo de galinha cru,76.1,143,13.0,0.6,10
+47,Ovo de galinha cozido,75.3,146,13.3,0.6,10
+48,Ovo de galinha frito,68.0,240,15.6,0.3,10
+49,Ovo de codorna cru,74.1,158,13.0,0.4,10
+50,Ovo mexido,70.0,196,14.0,1.0,10
+51,Pão francês,36.0,300,8.0,58.6,1
+52,Macarrão cozido,68.0,157,5.8,30.9,1
+53,Farinha de trigo,13.0,360,9.8,75.1,1
+54,Biscoito cream cracker,4.1,432,10.1,68.7,1
+55,Cereal matinal de milho,5.5,365,7.2,83.8,1
+56,Abóbora cozida,91.0,29,1.0,7.5,2
+57,Couve-flor cozida,93.0,23,1.9,4.2,2
+58,Pimentão verde cru,94.0,21,0.9,4.9,2
+59,Batata inglesa cozida,81.0,52,1.2,11.7,2
+60,Cebola crua,91.0,39,1.7,8.9,2
+61,Abacate cru,84.0,96,1.2,6.0,3
+62,Morango cru,91.0,30,0.9,6.8,3
+63,Melancia crua,91.5,24,0.5,6.0,3
+64,Uva roxa,81.0,72,0.9,18.6,3
+65,Abacaxi cru,87.5,48,0.9,12.3,3
+66,Carne bovina acém cozida,60.0,195,29.0,0.0,4
+67,Carne bovina músculo cru,72.0,147,21.0,0.0,4
+68,Carne suína costela assada,56.0,320,27.0,0.0,4
+69,Carne bovina fígado grelhado,70.0,225,29.0,0.0,4
+70,Frango caipira cozido,64.0,190,25.0,0.0,4
+71,Tilápia grelhada,75.0,128,26.0,0.0,5
+72,Corvina assada,71.0,120,24.0,0.0,5
+73,Bacalhau dessalgado cru,80.0,105,23.0,0.0,5
+74,Peixe pintado cru,76.0,91,20.0,0.0,5
+75,Tucunaré cozido,73.0,120,23.0,0.0,5
+76,Queijo mussarela,46.0,320,22.0,3.0,6
+77,Leite condensado,27.0,313,8.0,56.0,6
+78,Queijo parmesão,29.0,393,36.0,1.2,6
+79,Leite em pó integral,3.0,496,26.0,39.0,6
+80,Creme de leite,58.0,196,2.0,3.0,6
+81,Feijão fradinho cozido,67.0,80,4.5,14.5,7
+82,Ervilha enlatada,77.0,74,3.6,13.9,7
+83,Feijão branco cozido,70.0,92,6.0,16.0,7
+84,Soja cozida,63.0,140,12.0,11.0,7
+85,Grão-de-bico cru,12.0,355,21.3,57.9,7
+86,Castanha de baru torrada,5.0,570,26.0,28.0,8
+87,Amendoim torrado,3.0,605,25.8,21.5,8
+88,Linhaça crua,6.0,495,14.0,43.0,8
+89,Pinhão cozido,59.0,174,3.0,40.6,8
+90,Coco seco,4.0,592,5.9,24.0,8
+91,Café coado sem açúcar,98.8,9,0.3,1.5,9
+92,Suco de uva integral,84.0,58,0.3,14.8,9
+93,Chá mate infusão,99.0,1,0.0,0.3,9
+94,Refrigerante guaraná,90.0,38,0.0,9.8,9
+95,Vodka,0.0,231,0.0,0.0,9
+96,Ovo de galinha clara,88.0,48,10.9,0.3,10
+97,Ovo de galinha gema,49.0,358,15.9,0.6,10
+98,Omelete simples,72.0,200,14.0,0.7,10
+99,Ovo pochê,78.0,143,12.5,0.6,10
+100,Ovo de codorna cozido,74.0,158,13.0,0.4,10
